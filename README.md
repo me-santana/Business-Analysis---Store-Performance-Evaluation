@@ -85,7 +85,7 @@ O projeto processa dados de quatro arquivos CSV (um para cada loja), contendo as
 O projeto foi estruturado para responder a perguntas estratégicas através de 5 visualizações principais:
 1. **Faturamento Total**
 2. **Categorias Populares**
-3. **Satisfação (NPS)**
+3. **Satisfação**
 4. **Custo Logístico (Frete)**
 5. **Destaques de Venda**
 
