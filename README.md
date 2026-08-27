@@ -59,7 +59,7 @@ The project demonstrates practical skills in **data cleaning, exploratory analys
 ---
 
 
-## 🇬🇧 🇧🇷 Português
+## 🇧🇷 Português
 
 
 # 🛍️ Projeto Alura Store: Análise de Desempenho para Tomada de Decisão
