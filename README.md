@@ -56,8 +56,10 @@ This project was originally developed as part of the **Alura Store Challenge**, 
 The project demonstrates practical skills in **data cleaning, exploratory analysis, KPI evaluation, data visualization, and evidence-based business recommendations**.
 
 
+---
 
-<summary>🇧🇷 Português</summary>
+
+## 🇬🇧 🇧🇷 Português
 
 
 # 🛍️ Projeto Alura Store: Análise de Desempenho para Tomada de Decisão
